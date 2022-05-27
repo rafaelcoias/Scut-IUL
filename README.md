@@ -1,2 +1,19 @@
 # Scut-IUL
-O presente trabalho visa aplicar os conhecimentos adquiridos durante as aulas de Sistemas Operativos e será composto por três partes, com o objetivo de desenvolver os diferentes aspetos da plataforma Scut-IUL.
+
+## Assigment
+
+The present work aims to apply the knowledge acquired during the Operating Systems classes and will be composed of three parts, with the objective of developing the different aspects of the Scut-IUL platform.
+
+## Skills learned
+
+  - Parte 1 - Shell/Bash Script
+  - Parte 2 - Signals and Semaphores management
+  - Parte 3 - Message Queues management
+  
+## My grade
+
+<b>Very good</b> on the three parts.
+
+<hr>
+
+I hope you found it interesting!
