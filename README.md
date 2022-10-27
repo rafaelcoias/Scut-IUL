@@ -4,7 +4,7 @@
 
 The present work aims to apply the knowledge acquired during the Operating Systems classes and will be composed of three parts, with the objective of developing the different aspects of the Scut-IUL platform.
 
-## Skills learned
+## Skills Learned
 
   - Parte 1 - Shell/Bash Script
   - Parte 2 - Signals and Semaphores management
